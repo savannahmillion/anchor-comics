@@ -175,7 +175,7 @@ div#pagination {
     text-decoration: none;
 }
 
-img#post {
+div#post {
     height: 100%;
     width: 100%;
     background-color: gray;

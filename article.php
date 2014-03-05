@@ -4,9 +4,15 @@
 <article id="main-content">
         
         <h2><?php echo article_title(); ?></h2>
-        
-        
-        <img id="post" src="#">
+
+        <?php
+
+		$image = article_custom_field('image');
+		if ( !empty($image) ) : ?>
+		
+        <img src="<?php echo $image; ?>" id="post">
+    
+	    <?php endif; ?>
         
         
         <div id="share-me">
