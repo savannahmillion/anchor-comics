@@ -17,11 +17,11 @@
         
         <div id="share-me">
             <ul>
-                <li><a href="#" target="_blank">tweet me</a></li>
-                <li><a href="#" target="_blank">like me</a></li>
+                <li><a href="https://twitter.com/share">tweet me</a></li>
+                <li><a href="https://www.facebook.com/pages/Mark-Zuckerberg/112845672063384" data-layout="standard" data-action="like" data-show-faces="true" data-share="true">like me</a></li>
             </ul>
         </div>
-        
+    
         <article id="description">
             
             <p id="date">By <?php echo article_author(); ?> on <?php echo article_date(); ?></p>
