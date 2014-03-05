@@ -1,0 +1,5 @@
+Theme name:     Anchor Comics
+Description:    A clean theme for a webcomic.
+Author name:    Savannah Million
+Author site:    http://savannahmillion.com/
+License:        http://licence.visualidiot.com
